@@ -1,0 +1,28 @@
+body{
+	background-color: rgba(10,10,59,0.1);
+}
+
+.label1{
+	background-color: #2f4f4f;
+	color: #ffffff;
+	height: 60px;
+	font-size: 40px;
+}
+.label2{
+	background: rgba(176,196,222,0.5);
+	width: 100%;
+}
+.col-md-2{
+	background: rgb(255,255,255);
+	text-align: center;
+	height: 40px;
+	border-bottom: 4px solid rgba(176,196,222,0.5);
+	border-right: 2px dotted rgba(176,196,222,0.5);
+}
+
+.col-md-6{
+	background: #fff;
+	height: 600px;
+	border-right: 2px dashed rgba(10,10,59,0.1);
+	border-bottom: 4px solid rgba(10,10,59,0.1);
+}

@@ -1,0 +1,88 @@
+溶解
+dissolution
+溶質
+solute
+溶媒
+solution
+水溶液
+aqueous solution
+濃度
+concentration
+質量パーセント
+mass percentage
+モル濃度
+molarity
+化学反応
+chemical reaction
+化学変化
+chemical change
+化学反応式
+chemical equation
+反応物
+reactant
+生成物
+product
+係数
+coefficient
+触媒
+catalyst
+イオン反応式
+ionic equation
+酸性
+acidity
+酸
+acid
+塩基性
+basicity
+塩基
+base
+オキソニウムイオン
+oxonium ion
+水酸化物イオン
+hydroxide ion
+アルカリ
+alkali
+強酸
+strong acid
+強塩基
+strong base
+弱酸
+weak acid
+弱塩基
+weak base
+電離度
+degree of electroliytic dissolution
+水素イオン濃度
+hydrogen ion concentration
+中性
+neutrality
+水素イオン指数
+pH indicator
+メチルオレンジ
+methyl orange
+フェノールフタレイン
+phenolphthalein
+ブロモチモブルー
+bromothymol blue
+変色域
+transition interval
+pHメーター
+pH meter
+酸性雨
+acid rain
+中和
+neutralization
+塩
+salt
+正塩
+normal salt
+酸性塩
+acid sald
+塩基正塩
+basic salt
+中和滴定
+neutralization titration
+中和点
+neutralization point
+滴定曲線
+titration curve
